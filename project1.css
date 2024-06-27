@@ -162,3 +162,15 @@ width:100%;
 .home-sci a:hover::before{
     width:100%;
 }
+.header{
+    overflow: hidden;
+  background-color:#081b29;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+  .main {
+    padding: 16px;
+    margin-top: 20px;
+    height: 1000px; /* Used in this example to enable scrolling */
+  }
