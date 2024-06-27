@@ -26,7 +26,7 @@ body{
     justify-content: space-between;
     align-items: center;
     z-index:100;
-    tra
+    
     
 }
 .navbar a{
@@ -172,5 +172,5 @@ width:100%;
   .main {
     padding: 16px;
     margin-top: 20px;
-    height: 1000px; /* Used in this example to enable scrolling */
+    height: 1500px; /* Used in this example to enable scrolling */
   }
