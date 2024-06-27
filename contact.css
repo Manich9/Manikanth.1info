@@ -140,7 +140,18 @@ B{
     color:transparent;
     animation:animated 5s linear infinite;
 }
-
+.header{
+    overflow: hidden;
+  background-color:#081b29;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+  .main {
+    padding: 16px;
+    margin-top: 20px;
+    height: 1500px; /* Used in this example to enable scrolling */
+  }
 
 
 
